@@ -12,10 +12,12 @@ A todo list app
 	- total items count
 - Data
 	- tasks - an array
-	- task - {done, text, id}
+	- task - {done, ![Screenshot (44)](https://github.com/ROHITBHARDWAJ3238/TODO-APP/assets/87866699/92b46974-93e6-4326-b4f9-740a3e8c99ad)
+text, id}
 - Functions (in code)
 	- addTodo
 	- deleteTodo
 	- checkTodo
 	- renderTodosList
 	- showNotification
+	-
